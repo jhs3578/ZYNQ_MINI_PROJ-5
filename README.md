@@ -1,6 +1,8 @@
 full project 
--fpga 05 pl eeprom write read
--vivado version 2022.2
+
+-name: fpga 05 pl eeprom write read
+
+-vivado version: 2022.2
 
 https://drive.google.com/file/d/1RbWCRLt-h-EnT48WaYq9c5Vw1IGkd_3x/view?usp=sharing
 
