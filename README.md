@@ -1,5 +1,6 @@
 full project 
 -vivado version 2022.2
+
 https://drive.google.com/file/d/1RbWCRLt-h-EnT48WaYq9c5Vw1IGkd_3x/view?usp=sharing
 
 ILA IP에서 probe 7개 만들어서 디버깅해 봤습니다.
